@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebb5b25e0711fa84382207e8f065852e, type: 3}
+  m_Name: GeneralData
+  m_EditorClassIdentifier: 
+  map_tate_init: 0
+  map_yoko_init: 0
+  map_tate_num: 0
+  map_yoko_num: 0
+  floor_num: 0
+  player_dir: 0
+  player_x: 0
+  player_y: 0
+  player_level: 0
+  player_maxhp: 0
+  player_hp: 0
+  player_nextexp: 0
+  player_exp: 0
+  player_status: 0
+  move: {x: 0, y: 0}
+  move_flag: 0
+  now_turn: 0

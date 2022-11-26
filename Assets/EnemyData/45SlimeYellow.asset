@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22cdf5b643626364eaad4a6dc4ce6bb1, type: 3}
+  m_Name: 45SlimeYellow
+  m_EditorClassIdentifier: 
+  enemy_name: "\u30A4\u30A8\u30ED\u30FC\u30B9\u30E9\u30A4\u30E0"
+  enemy_level: 45
+  enemy_prefab: {fileID: 1927841774115565876, guid: 742fca39984447c44b6c872e7f12486c, type: 3}
+  enemy_kind: 45
+  enemy_rank: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22cdf5b643626364eaad4a6dc4ce6bb1, type: 3}
+  m_Name: 13KnightDark
+  m_EditorClassIdentifier: 
+  enemy_name: "\u30C0\u30FC\u30AF\u30CA\u30A4\u30C8"
+  enemy_level: 13
+  enemy_prefab: {fileID: 1927841774115565876, guid: c710f11d433cb4943a7b9cbddab9da60, type: 3}
+  enemy_kind: 13
+  enemy_rank: 0
